@@ -1,0 +1,4 @@
+{
+  "cSpell.words": ["charcodes", "ecma", "typecheck"],
+  "typescript.tsdk": "./node_modules/typescript/lib"
+}

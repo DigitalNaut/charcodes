@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "target": "ESNext",
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+    "strictNullChecks": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["ESNext"],
+    "baseUrl": "src",
+  },
+  "exclude": ["node_modules"],
+  "include": ["./src/**/*.ts"],
+}
